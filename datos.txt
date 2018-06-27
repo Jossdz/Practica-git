@@ -1,3 +1,3 @@
 Nombre: Joss
 Edad: 22
-Color Favorito: Rojo.
+Color Favorito: Azul.
